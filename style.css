@@ -1,0 +1,27 @@
+.tab{
+    background-color: blanchedalmond;
+    font-family: 'Courier New', Courier, monospace;
+    margin: auto;
+}
+#h1{
+    margin: auto;
+    text-align: center;
+}
+#fel1{
+    float: right;
+    box-shadow: 15px 15px 10px;
+    background-color: antiquewhite;
+}
+#fel2{
+    float: left;
+    box-shadow: 15px 15px 10px;
+    background-color: aliceblue;
+}
+#keret{
+    background-color: white;
+}
+#fel3{
+    float: left;
+    box-shadow: 15px 15px 10px;
+    background-color: gold;
+}
