@@ -7,21 +7,9 @@
     margin: auto;
     text-align: center;
 }
-#fel1{
+.fel{
     float: right;
     box-shadow: 15px 15px 10px;
     background-color: antiquewhite;
-}
-#fel2{
-    float: left;
-    box-shadow: 15px 15px 10px;
-    background-color: aliceblue;
-}
-#keret{
-    background-color: white;
-}
-#fel3{
-    float: left;
-    box-shadow: 15px 15px 10px;
-    background-color: gold;
+    margin: auto;
 }
